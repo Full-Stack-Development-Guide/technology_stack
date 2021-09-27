@@ -6,5 +6,5 @@
 - **DevOps**: Git, Kubernetes, Docker, Microservices (Kafka/RabbitMQ)
 - **Database**: MySQL, Postgres, Mongo, Redis
 
-- Data structures & Algorithim
+- Data structures & Algorithm
 - TCP/IP Networking concepts
