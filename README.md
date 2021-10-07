@@ -1,10 +1,10 @@
 # technology_stack
 
-- **Frontend**: HTML5, CSS3, Javascript
-- **Frameworks**: React, Angular, flask, Django, NodeJS (Express, Auth, ORM: Sequelize/Mongoose)
+- **Frontend**: HTML5, CSS3, SASS, Bootstrap
+- **Frameworks**: React/Redux, Angular, Flask, Django, NodeJS (Express, Auth, ORM: Sequelize/Mongoose, REST APIs)
 - **UI Design**: Figma, AdobeXd
 - **DevOps**: Git, Kubernetes, Docker, Microservices (Kafka/RabbitMQ)
 - **Database**: MySQL, Postgres, Mongo, Redis
-
-- Data structures & Algorithm
-- TCP/IP Networking concepts
+- **Programming Languages**: Python, Java, C, C++, Javascript, Typescript
+- **Tools**: JIRA, Postman, Swagger API, Stapi CMS, VSCode, 
+- **Methodogies**: Agile (SCRUM), MVC architecture, OOP, Data structures & Algorithms, TCP/IP Networking concepts
