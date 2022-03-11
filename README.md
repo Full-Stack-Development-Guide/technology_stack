@@ -1,3 +1,33 @@
+### High Quality Software Developer
+- Always test your code (Have automated test cases)
+- Complete the tasks within a given time / Optimize your strategy
+- Team work : Share your progress, your problems, your insights and learnings, and to stay aware of what your teammates are doing 
+- Task estimation: Communicate with other people to be as accurate as possible
+- The best way to stay calm under pressure is to avoid the situations that cause pressure
+
+#### Refactoring
+- To remove code duplication.
+- To make some parts of the code more orthogonal.
+- To update code and/or documentation that's outdated.
+- To improve performance.
+
+#### Technical Skills
+- Algo / DS 
+- OOPS
+- Networking
+- OS
+- DBMS
+- System Design (High level and Low level)
+- Coding/Designing Scalable systems (full stack project)
+- Open Source Contribution
+
+#### Non-Tech skills
+- What to research on google
+- Good documentation
+- Communicate ideas/work with peers/managers
+- Presentation
+- Problem Solving (How to debug and solve a bug?)
+
 ## Technology stack
 
 - **Frontend**: HTML5, CSS3, Bootstrap, responsive design, flexbox, SCSS, SASS or LESS
